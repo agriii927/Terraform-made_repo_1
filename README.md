@@ -1,5 +1,5 @@
-# Repo 0 initialised in Terraform
-Auto built by Terraform example repo 0 with configured branches and added users
+# Repo 1 initialised in Terraform
+Auto built by Terraform example repo 1 with configured branches and added users
 ## To run this terraform script use following commands:
 1. Generate OAuth token in GitHub
 2. Set the environmental variable:
