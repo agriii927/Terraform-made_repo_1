@@ -1,4 +1,4 @@
-# Example of initialising repo in Terraform
+# Repo 0 initialised in Terraform
 Auto built by Terraform example repo 0 with configured branches and added users
 ## To run this terraform script use following commands:
 1. Generate OAuth token in GitHub
